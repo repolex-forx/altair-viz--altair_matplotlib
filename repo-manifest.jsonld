@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/altair-viz/altair_matplotlib/commit/531daf18cd71c59fb4690dc09d42d8ff0075a1bb",
       "git:hexsha": "531daf18cd71c59fb4690dc09d42d8ff0075a1bb",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T21:29:56.057402+00:00"
     }
   ]
 }
