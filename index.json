@@ -1,0 +1,11 @@
+{
+  "org": "altair-viz",
+  "repo": "altair_matplotlib",
+  "versions": [
+    {
+      "commit": "531daf18cd71c59fb4690dc09d42d8ff0075a1bb",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:29:56.057956+00:00"
+    }
+  ]
+}
