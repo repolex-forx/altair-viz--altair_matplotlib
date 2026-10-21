@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "altair-viz",
+  "repo": "altair_matplotlib",
+  "versions": [
+    {
+      "commit": "531daf18cd71c59fb4690dc09d42d8ff0075a1bb",
+      "parsed_at": "2026-10-21T21:27:17.629041+00:00",
+      "filetree": "filetree/531daf18cd71c59fb4690dc09d42d8ff0075a1bb.nq.gz",
+      "blobs": [
+        "blob/4e279d348048adcc65ff69cfd3607459f3efbf31.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/b35f49f1224175b5be0ba9e887b047a2667045d4.nq.gz",
+        "blob/a631063221bd74f247690bde40cd8cfbea174fb5.nq.gz",
+        "blob/0d263e78ea479d4474d4317bba26724b135499f4.nq.gz",
+        "blob/5534f26a795c2b7607b0b24e8f5398611b0bd19b.nq.gz",
+        "blob/104a27fb68063f69cb7eeec529c72ba374bf35f4.nq.gz",
+        "blob/ca6788bccb39e6a8270d204d3b7abc6d6cd379fd.nq.gz",
+        "blob/daf00172a13551e60dd3690422966ff06a7743f5.nq.gz",
+        "blob/22da14ae71520517affef9f6a116c407723c4a24.nq.gz",
+        "blob/d601206f5bd9c9701c4c765cf581e1ec8efc2ca0.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
